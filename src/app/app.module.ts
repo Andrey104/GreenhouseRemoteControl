@@ -24,7 +24,6 @@ import {UserModule} from './user/user.module';
     FormsModule,
     ReactiveFormsModule,
     BrowserAnimationsModule,
-    DevicesModule,
     UserModule
   ],
   providers: [
